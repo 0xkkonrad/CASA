@@ -53,6 +53,7 @@ For those who prefer realtime/social-style communications, we also run a Discord
 | `Json RPC`  | CAIP-25, -27 | every 2 weeks | @hmalik88 |
 | `CACAO/AuthZ` | CAIP-74, -122, -168; [varint]() & [multidid](), interop with UCAN and ZCAP-LD | every 2 weeks | @bumblefudge/TBD | 
 | `Browser Security` | CAIP-169, -171 | Sporadic/By request | @kdenhartog |
+| `URLs` | URL-based token transfers | Sporadic/By request | @0xkkonrad, @uwwgo |
 
 ### **How to form a new working group**
 
